@@ -1,0 +1,4 @@
+﻿  ExercideC.Test.cpp
+  C:\Users\cesco\source\repos\ExercisesC\ExercisesC.cpp(21) : warning C4715: 'GetSalary': not all control paths return a value
+  C:\Users\cesco\source\repos\ExercisesC\ExercisesC.cpp(41) : warning C4715: 'GetPHType': not all control paths return a value
+  ExercideC.Test.vcxproj -> C:\Users\cesco\source\repos\ExercisesC\Debug\ExercideC.Test.dll
