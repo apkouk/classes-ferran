@@ -1,4 +1,1 @@
-﻿  ExercisesC.cpp
-  C:\Users\cesco\source\repos\ExercisesC\ExercisesC.cpp(41) : warning C4715: 'GetPHType': not all control paths return a value
-  C:\Users\cesco\source\repos\ExercisesC\ExercisesC.cpp(21) : warning C4715: 'GetSalary': not all control paths return a value
-  ExercisesC.vcxproj -> C:\Users\cesco\source\repos\ExercisesC\Debug\ExercisesC.exe
+﻿  ExercisesC.vcxproj -> C:\Users\cesco\source\repos\classes-ferran\ExercisesC\Debug\ExercisesC.exe
